@@ -6,7 +6,7 @@ function preload() {
   //loadImage de path (camino)
   pathImg = loadImage("path.png");
   //loadAnimation de boy (niño)
-  boyImg = loadAnimation("Jake1.png", "Jake2.png", "Jake3.png", "Jake4.png", "Jake5.png");
+  boyImg = loadAnimation("jake1.png", "jake2.png", "jake3.png", "jake4.png", "jake5.png");
 
 }
 
